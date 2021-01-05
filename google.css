@@ -1,0 +1,166 @@
+/*
+google.css
+---------
+ 
+Par Chenda
+*/
+ 
+
+  /* barre de recherche arrondi*/
+
+.navbar li :hover{
+    text-decoration:underline;
+}
+
+.logo{
+    margin-top: 200px;
+    cursor: pointer;
+}
+
+.btn{
+    margin-top: 15px;
+    margin: 5px;
+}
+
+input {
+    border-radius: 20px;
+}
+
+ul {
+margin-left: auto;
+} 
+
+
+/* fooooooooooooter info */
+
+#ad {
+  float: left;
+  margin-bottom: 10px;
+}
+
+
+.logo {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  padding-top: 150px;
+}
+
+.wrapper {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#bar {
+  width: 550px;
+  height: 35px;
+  margin-top: 15px;
+  background-color: white;
+  border-style: solid;
+  border-color: #e6e6e6;
+}
+
+.buttons {
+  width: 310px;
+  padding-top: 30px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+#google {
+  font-size: 12px;
+  display: block;
+  float: left;
+  background-color: #f2f2f2;
+  padding: 12px 20px;
+  color: #666666;
+  font-weight: bold;
+}
+
+#lucky {
+  font-size: 12px;
+  display: block;
+  float: right;
+  background-color: #f2f2f2;
+  padding: 12px 20px;
+  color: #666666;
+  font-weight: bold;
+}
+
+
+#breadcrumbs li {
+  list-style-type: none;
+  display: inline;
+  float: right;
+  padding: 5px;
+  font-size: 12px;
+  margin: 5px;
+  text-align: center;
+}
+
+#bre
+
+crumbs a {
+  color: #4d4d4d;
+}
+
+#breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+.nav {
+  width: 100%;
+  height: 50px;
+  margin: 0 auto;
+}
+
+.settings li {
+  list-style-type: none;
+  display: inline;
+  padding: 10px;
+  font-size: 12px;
+  margin-top: 5px;
+
+}
+
+.settings a {
+  color: #4d4d4d;
+}
+
+.settings a:hover {
+  text-decoration: underline;
+}
+
+#ad {
+  float: left;
+  margin-bottom: 10px;
+}
+
+#priv {
+  float: right;
+  margin-bottom: 10px;
+}
+
+.bottom {
+  border-top: solid;
+  border-width: 0.1px;
+  border-color: #e6e6e6;
+  position: fixed;
+  bottom: 0px;
+  right: 5px;
+  width: 100%;
+  background-color: #f2f2f2;
+}
+
+
+
+
+
+
+
+
+
